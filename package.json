@@ -1,0 +1,19 @@
+{
+  "name": "daily-golf-game",
+  "version": "1.0.0",
+  "main": "script.js",
+"scripts": {
+  "dev": "vite",
+  "build": "vite build"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "three": "^0.176.0"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
